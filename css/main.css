@@ -66,3 +66,15 @@ html {
 .skip-links a:focus {
   top: 0;
 }
+
+@media print {
+
+  .no-print {
+    display: none;
+  }
+
+  .inset-img {
+    border-color: #000;
+  }
+
+}
