@@ -77,4 +77,9 @@ html {
     border-color: #000;
   }
 
+  .chapter-ends,
+  .book-ends {
+    border: none;
+  }
+
 }
